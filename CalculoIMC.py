@@ -2,7 +2,7 @@
 
 '''
 ------------------------------------  
- IMC (kg/m²) - Classificação
+ IMC (kg/m²)  - Classificação
 ------------------------------------  
 menor que 18,5 - Magreza
 de 18,5 a 24,9 - Peso normal
