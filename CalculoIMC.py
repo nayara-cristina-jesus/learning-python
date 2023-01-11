@@ -19,7 +19,7 @@ altura = float(input("\nInforme a sua altura (m): "))
 peso = float(input("\nInforme o seu peso (kg): "))
 
 # Calculando IMC
-imc = (peso/altura)/2
+imc = peso/(altura * altura)
 
 # Saida de dados
 print("\nIMC: %.2f" %imc)
