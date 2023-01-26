@@ -1,5 +1,9 @@
 ### Sequência de Fibonacci
 
+# Valores iniciais: fib_1 = 1 e fib_2 = 1
+# Fórmula: fib_n = fib_n-1 + fib_n-2
+# Exemplo, 10 primeiros termos da sequência: 0,1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89
+
 num1 = 0
 num2 = 1
 contagem = 0
