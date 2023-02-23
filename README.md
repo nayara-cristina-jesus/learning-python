@@ -11,8 +11,7 @@ Python is a high-level, interpreted, general-purpose programming language.
 ## Official documentation
 https://www.python.org/doc/
 
-## IDEs used 
-- `PyCharm`
+## IDE used 
 - `Replit`
 
 ## Code editors used 
