@@ -14,8 +14,7 @@ https://www.python.org/doc/
 ## IDE used 
 - `Replit`
 
-## Code editors used 
+## Code editor used 
 - `Notepad++`
-- `Visual Studio Code`
 
 
